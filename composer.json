@@ -1,0 +1,16 @@
+{
+  "name": "NewPackageTestingBaap",
+  "description": "NewPackageTestingBaap Desc",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Testing Baap",
+      "email": "testingkabaap@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
