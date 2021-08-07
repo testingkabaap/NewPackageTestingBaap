@@ -1,5 +1,5 @@
 {
-  "name": "NewPackageTestingBaap",
+  "name": "testingkabaap/NewPackageTestingBaap",
   "description": "NewPackageTestingBaap Desc",
   "type": "library",
   "require": {
